@@ -107,12 +107,3 @@ Você foi kickado por linguagem ofensiva
 * ❌ Pode detectar palavras parcialmente (falsos positivos)
 * ❌ Não aplica ban (apenas kick)
 
----
-
-## 💡 Melhorias sugeridas
-
-* ✔️ Sistema de ban automático
-* ✔️ Detecção anti-bypass
-* ✔️ Uso de regex
-* ✔️ Sistema de logs
-* ✔️ Integração com anti-c
