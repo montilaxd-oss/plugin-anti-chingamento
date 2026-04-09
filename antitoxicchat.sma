@@ -16,7 +16,7 @@ new g_iPlayerWarnings[33];
 #define KICK_MESSAGE "Você foi kickado por linguagem ofensiva"
 
 public plugin_init() {
-    register_plugin("Anti-Toxic Chat", "2.0", "Adaptado por IA");
+    register_plugin("Anti-Toxic Chat", "2.0", "MontilaXD");
     
     // Cria o diretório se não existir
     if(!dir_exists("addons/amxmodx/configs/antitoxic")) {
